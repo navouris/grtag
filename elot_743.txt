@@ -1,0 +1,25 @@
+#transliteration table elot 743
+1 Α, α  	A, a
+2 Β, β  	V, v
+3 Γ, γ  	G, g
+4 ∆, δ  	D, d
+5 Ε, ε  	E, e
+6 Ζ, ζ  	Z, z
+7 Η, η  	I , i
+8 Θ, θ  	TH, th
+9 Ι, ι  	I, i
+10 Κ, κ 	K, k
+11 Λ, λ 	L, l
+12 Μ, μ 	M, m
+13 Ν, ν 	N, n
+14 Ξ, ξ 	X, x
+15 Ο, ο 	O, o
+16 Π, π 	P, p
+17 Ρ, ρ 	R, r
+18 Σ, σ, ς  	S, s
+19 Τ, τ 	T, t
+20 Υ, υ 	Y, y
+21 Φ, φ 	F, f
+22 Χ, χ 	CH, ch
+23 Ψ, ψ 	PS, ps
+24 Ω, ω 	O, o
